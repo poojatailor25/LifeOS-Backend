@@ -9,3 +9,4 @@ C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Domain\obj\Debug\net9.
 C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Domain\obj\Debug\net9.0\refint\LifeOS.Domain.dll
 C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Domain\obj\Debug\net9.0\LifeOS.Domain.pdb
 C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Domain\obj\Debug\net9.0\ref\LifeOS.Domain.dll
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Domain\obj\Debug\net9.0\LifeOS.Domain.sourcelink.json

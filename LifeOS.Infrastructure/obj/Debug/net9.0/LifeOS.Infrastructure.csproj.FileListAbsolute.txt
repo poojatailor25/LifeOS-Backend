@@ -15,3 +15,6 @@ C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\obj\Deb
 C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\obj\Debug\net9.0\refint\LifeOS.Infrastructure.dll
 C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\obj\Debug\net9.0\LifeOS.Infrastructure.pdb
 C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\obj\Debug\net9.0\ref\LifeOS.Infrastructure.dll
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\bin\Debug\net9.0\LifeOS.Infrastructure.runtimeconfig.json
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\obj\Debug\net9.0\LifeOS.Infrastructure.sourcelink.json
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\obj\Debug\net9.0\LifeOS.Infrastructure.genruntimeconfig.cache

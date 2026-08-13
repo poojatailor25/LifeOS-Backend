@@ -1,6 +1,12 @@
+using LifeOS.Infrastructure.Persistence;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 
+
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<LifeOSDbContext>(options =>
+    options.UseNpgsql(
+        builder.Configuration.GetConnectionString("LifeOSDb")));
 
 builder.Services.AddControllers();
 

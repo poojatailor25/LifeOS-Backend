@@ -13,3 +13,4 @@ C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Application\obj\Debug\
 C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Application\obj\Debug\net9.0\refint\LifeOS.Application.dll
 C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Application\obj\Debug\net9.0\LifeOS.Application.pdb
 C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Application\obj\Debug\net9.0\ref\LifeOS.Application.dll
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Application\obj\Debug\net9.0\LifeOS.Application.sourcelink.json
