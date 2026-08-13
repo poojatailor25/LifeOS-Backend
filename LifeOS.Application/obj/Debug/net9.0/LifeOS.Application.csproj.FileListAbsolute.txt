@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Application\bin\Debug\net9.0\LifeOS.Application.deps.json
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Application\bin\Debug\net9.0\LifeOS.Application.dll
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Application\bin\Debug\net9.0\LifeOS.Application.pdb
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Application\bin\Debug\net9.0\LifeOS.Domain.dll
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Application\bin\Debug\net9.0\LifeOS.Domain.pdb
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Application\obj\Debug\net9.0\LifeOS.Application.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Application\obj\Debug\net9.0\LifeOS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Application\obj\Debug\net9.0\LifeOS.Application.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Application\obj\Debug\net9.0\LifeOS.Application.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Application\obj\Debug\net9.0\LifeOS.Application.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Application\obj\Debug\net9.0\LifeOS.A.A0CDDD10.Up2Date
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Application\obj\Debug\net9.0\LifeOS.Application.dll
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Application\obj\Debug\net9.0\refint\LifeOS.Application.dll
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Application\obj\Debug\net9.0\LifeOS.Application.pdb
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Application\obj\Debug\net9.0\ref\LifeOS.Application.dll

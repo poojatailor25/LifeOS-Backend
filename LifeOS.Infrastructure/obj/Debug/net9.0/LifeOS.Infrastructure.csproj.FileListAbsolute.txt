@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\bin\Debug\net9.0\LifeOS.Infrastructure.deps.json
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\bin\Debug\net9.0\LifeOS.Infrastructure.dll
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\bin\Debug\net9.0\LifeOS.Infrastructure.pdb
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\bin\Debug\net9.0\LifeOS.Application.dll
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\bin\Debug\net9.0\LifeOS.Domain.dll
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\bin\Debug\net9.0\LifeOS.Application.pdb
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\bin\Debug\net9.0\LifeOS.Domain.pdb
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\obj\Debug\net9.0\LifeOS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\obj\Debug\net9.0\LifeOS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\obj\Debug\net9.0\LifeOS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\obj\Debug\net9.0\LifeOS.Infrastructure.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\obj\Debug\net9.0\LifeOS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\obj\Debug\net9.0\LifeOS.I.184F3C16.Up2Date
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\obj\Debug\net9.0\LifeOS.Infrastructure.dll
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\obj\Debug\net9.0\refint\LifeOS.Infrastructure.dll
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\obj\Debug\net9.0\LifeOS.Infrastructure.pdb
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Infrastructure\obj\Debug\net9.0\ref\LifeOS.Infrastructure.dll

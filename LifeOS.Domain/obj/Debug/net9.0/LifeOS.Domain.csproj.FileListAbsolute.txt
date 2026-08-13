@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Domain\bin\Debug\net9.0\LifeOS.Domain.deps.json
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Domain\bin\Debug\net9.0\LifeOS.Domain.dll
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Domain\bin\Debug\net9.0\LifeOS.Domain.pdb
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Domain\obj\Debug\net9.0\LifeOS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Domain\obj\Debug\net9.0\LifeOS.Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Domain\obj\Debug\net9.0\LifeOS.Domain.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Domain\obj\Debug\net9.0\LifeOS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Domain\obj\Debug\net9.0\LifeOS.Domain.dll
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Domain\obj\Debug\net9.0\refint\LifeOS.Domain.dll
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Domain\obj\Debug\net9.0\LifeOS.Domain.pdb
+C:\Users\LENOVO\source\repos\LifeOS\LifeOS-Backend\LifeOS.Domain\obj\Debug\net9.0\ref\LifeOS.Domain.dll
